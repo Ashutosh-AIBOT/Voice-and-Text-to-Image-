@@ -91,12 +91,6 @@ OpenAI DALL-E API
   → Returns image URL / base64
   → Supports multiple image sizes
         ↓
-Streamlit Dashboard
-  → Displays generated image
-  → Shows transcription text
-  → Logs pipeline performance metrics
-  → Visualizes system KPIs
-        ↓
 Analytics Pipeline
   → Audio dataset cleaning and preprocessing
   → Performance metrics logging
